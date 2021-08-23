@@ -2,7 +2,7 @@
 name: Custom issue template
 about: Custom issue template
 title: "[Feat] Title"
-labels: ''
+labels: documentation
 assignees: chaselover
 
 ---
@@ -13,8 +13,8 @@ assignees: chaselover
 
 ## Progress
 
-- []
-- []
-- []
+- [ ] 1
+- [ ] 2
+- [ ] 3
 
-##Comments
+## Comments
