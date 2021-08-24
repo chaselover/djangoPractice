@@ -18,10 +18,10 @@ Anyone can contribute this repository!
 
 ## Daily Summary
 
-|  #  |                    title                    |                         details                         |    date    |
-| :-: | :-----------------------------------------: | :-----------------------------------------------------: | :--------: |
-| 01  | [Make Project](study_daily/210824_study.md) | 아직 commit이나 pull request 본문 만드는게 익숙지 않다. | 2021-08-23 |
-| 02  |                                             |                                                         |            |
+|  #   |                            title                             |                           details                            |    date    |
+| :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :--------: |
+|  01  |         [Make Project](study_daily/210824_study.md)          |   아직 commit이나 pull request 본문 만드는게 익숙지 않다.    | 2021-08-23 |
+|  02  | [Make DB & View](https://github.com/chaselover/djangoPractice/blob/develop/study_daily/210825_study.md) | DB를 자동으로 만들어주는게 신기하다. 커스텀까지 도전해볼 예정 <br>HTML 빌트인 문법이 뭔가.. 맘에 들지 않는다. 저게 최선인지 알아볼 예정 | 2021-08-24 |
 
 <br>
 
