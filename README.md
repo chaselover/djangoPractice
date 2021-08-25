@@ -21,7 +21,8 @@ Anyone can contribute this repository!
 |  #   |                            title                             |                           details                            |    date    |
 | :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :--------: |
 |  01  |         [Make Project](study_daily/210824_study.md)          |   아직 commit이나 pull request 본문 만드는게 익숙지 않다.    | 2021-08-23 |
-|  02  | [Make DB & View](https://github.com/chaselover/djangoPractice/blob/develop/study_daily/210825_study.md) | DB를 자동으로 만들어주는게 신기하다. 커스텀까지 도전해볼 예정 <br>HTML 빌트인 문법이 뭔가.. 맘에 들지 않는다. 저게 최선인지 알아볼 예정 | 2021-08-24 |
+|  02  | [Make DB & View](https://github.com/chaselover/djangoPractice/blob/develop/study_daily/210825_study.md) | DB를 자동으로 만들어주는게 신기하다. 커스텀까지 도전해볼 예정 <br> | 2021-08-24 |
+|  03  | [template&test code](https://github.com/chaselover/djangoPractice/blob/develop/study_daily/210826_study.md) | 프레임워크의 강력함을 느낄 수 있었다. <br> 지금까지 부트스트랩을 제외하고 한번도 프레임워크를 써본적 없다는것도..<br> 테스트코드의 위대함도 느꼈으니 최대한 짜려고 노력해 볼 예정. | 2021-08-25 |
 
 <br>
 
