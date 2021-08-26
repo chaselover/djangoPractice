@@ -1,7 +1,39 @@
-body {
-    background: white url("images/iu.jpg") no-repeat;
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
 }
 
-li a {
-    color: green;
+ul {
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    background-color: rgba(255, 255, 255, 0.822);
+    width: 300px;
+    height: 300px;
+    border-radius: 100%;
+    position: fixed;
+    top: 50%;
+    left: 70%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+    padding-top: 4%;
+}
+
+h1 a {
+    text-decoration: none;
+    color: rgb(102, 19, 102);
+    font-family: 'Indie Flower', cursive;
+}
+
+.background__img {
+    height: 95vh;
+    background-image: linear-gradient(
+      to right bottom,
+      rgba(238, 132, 229, 0.801),
+      rgba(167, 68, 187, 0.808)
+    ), url("images/iu.jpg");
+    background-size: cover;
+    background-position: top;
+    clip-path: polygon(0 0, 100% 0, 100% 75vh, 0 100%);
+    position: relative;
 }
