@@ -52,10 +52,13 @@ MIDDLEWARE = [
 
 ROOT_URLCONF = 'mysite.urls'
 
+# 내 탬플릿이 아닌 기본 관리자 템플릿
+# 템플릿은 templates에서 찾도록 함.(DIR설정). 
+# 장고가 템플릿을 검사할 파일 시스템 디렉토리(검색 경로)
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': [BASE_DIR / 'templates'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
