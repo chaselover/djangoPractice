@@ -24,6 +24,7 @@ Anyone can contribute this repository!
 | 02 |   [Make DB &amp; View](https://github.com/chaselover/djangoPractice/blob/develop/study_daily/210825_study.md)   |                                                                                                    DB를 자동으로 만들어주는게 신기하다. 커스텀까지 도전해볼 예정 `<br>`                                                                                                    | 2021-08-24 |
 | 03 | [template&amp;test code](https://github.com/chaselover/djangoPractice/blob/develop/study_daily/210826_study.md) | 프레임워크의 강력함을 느낄 수 있었다.`<br>` <br />부트스트랩을 제외하고 한번도 프레임워크를 써본적 없었는데 이래서 쓰는구나 싶다. `<br>`<br />근데 이렇게 다 만들어주면 너무 쉽지 않나? 생각..`<br>` <br />테스트코드의 위대함도 느꼈으니 최대한 짜려고 노력해 볼 예정. | 2021-08-25 |
 | 04 | [app&amp;admin styling](https://github.com/chaselover/djangoPractice/blob/develop/study_daily/210827_study.md) |                                         앱과 어드민을 커스텀 스타일링 했는데 프레임워크라 그런지 `<br>`<br />확실히 기본 틀에서 벗어나기는 쉽지 않아 보인다.`<br>`<br />장고의 view를 js 프레임워크를 사용해보고 싶다고 생각했다.                                         | 2021-08-26 |
+| 05 | N + 1 Problem |                                         ORM 성능 최적화를 위한 고민. lazy-loading과 eager-loading                                         | 2021-11-10 |
 
 <br>
 
